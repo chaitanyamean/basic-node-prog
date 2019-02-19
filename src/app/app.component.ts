@@ -19,6 +19,10 @@ export class AppComponent implements OnInit {
   onSubmit() {
     // this.signUpForm
     console.log(this.signUpForm);
+
+
+    console.log('This is new change');
+    
     
   }
 
